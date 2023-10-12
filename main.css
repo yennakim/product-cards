@@ -1,3 +1,21 @@
 body {
   background-color: #EAD7BB;
 }
+
+.title {
+  border: solid 1px lightblue;
+}
+
+#section1 {
+ text-align: center; 
+}
+
+footer {
+  font-size: small;
+}
+
+.availability {
+  width: 100%;
+  background-color: darkgrey;
+  color: yellow;
+}
